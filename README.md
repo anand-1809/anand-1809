@@ -1,7 +1,7 @@
 <h1 align='center'> Hi there 👋, I'm Anand Kumar  👩‍💻 </h1>
 
 <p align='center'>
-  I live in Bokaro,Jharkhand <b>India</b>  <img align='right' src='https://github.com/anand-1809/octocat-anime.gif' width='140"'>
+  I live in Bokaro,Jharkhand <b>India</b>  <img align='right' src='https://github.com/anand-1809/anand-1809/blob/main/octocat-anime.gif' width='140"'>
 </p>
 
 <p align='center'>
@@ -40,6 +40,7 @@
 
 <hr>
 Here are some [🦜 parrots](https://cultofthepartyparrot.com):
+<br>
 
 <div>
     <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" height="30"/>
