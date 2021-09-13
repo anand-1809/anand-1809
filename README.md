@@ -35,6 +35,10 @@
 </p>
 <hr>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anand-1809&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
+<hr>
 Here are some [🦜 parrots](https://cultofthepartyparrot.com):
 
 <div>
@@ -63,10 +67,6 @@ Here are some [🦜 parrots](https://cultofthepartyparrot.com):
     <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotdark.gif" width="30" height="30"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="30" height="30"/>
 </div>
-<hr>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anand-1809&layout=compact)](https://github.com/anand-1809/github-readme-stats)
-
-<hr>
 
 <!--
 <p align='right'>
@@ -77,7 +77,7 @@ Here are some [🦜 parrots](https://cultofthepartyparrot.com):
 </p>
 -->
 
-<hr>
+
 
 <br>
 <!--
