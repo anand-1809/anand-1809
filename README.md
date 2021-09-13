@@ -33,6 +33,7 @@
 <p >
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/node.js%20-%23339933.svg?&style=for-the-badge&logo=node.js&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
+<hr>
 
 Here are some [🦜 parrots](https://cultofthepartyparrot.com):
 
@@ -62,6 +63,10 @@ Here are some [🦜 parrots](https://cultofthepartyparrot.com):
     <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotdark.gif" width="30" height="30"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="30" height="30"/>
 </div>
+<hr>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anand-1809&layout=compact)](https://github.com/anand-1809/github-readme-stats)
+
+<hr>
 
 <!--
 <p align='right'>
