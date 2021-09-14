@@ -80,9 +80,10 @@ Here are some [🦜 parrots](https://cultofthepartyparrot.com):
 
 
 <br>
-<hr>
-<svg fill="none" viewBox="0 0 800 50" width="800" height="50" xmlns="http://www.w3.org/2000/svg">
-	<foreignObject width="100%" height="100%">
+
+
+<!-- <svg fill="none" viewBox="0 0 800 50" width="800" height="50" xmlns="http://www.w3.org/2000/svg">
+<!-- 	<foreignObject width="100%" height="100%">
 		<div xmlns="http://www.w3.org/1999/xhtml">
 			<style>
         .marquee {
@@ -92,16 +93,16 @@ Here are some [🦜 parrots](https://cultofthepartyparrot.com):
         }
         .marquee strong {
           font-family: "Comic Sans", "Comic Sans MS", Chalkboard, ChalkboardSE-Regular, "Marker Felt", Purisa, "URW Chancery L", cursive, sans-serif !important;
-          color: limegreen;
-          position: absolute;
+          color: limegreen; -->
+<!--           position: absolute;
           font-size: 1.2em;
           width: 100%;
           height: 100%;
           margin: 0;
           line-height: 50px;
           text-align: center;
-
-          transform:translateX(100%);
+ -->
+<!--           transform:translateX(100%); -->
 
           animation: marquee 7s linear infinite;
         }
@@ -120,8 +121,8 @@ Here are some [🦜 parrots](https://cultofthepartyparrot.com):
       </div>
 		</div>
 	</foreignObject>
-</svg>
-<br>
+<!-- </svg>
+<br> --> 
 <!--
 <p align="right">
   <a href="https://open.spotify.com/playlist/2w8GYqYdH6ve3g0nGcJcgE?si=7bCl8yynR2Saz4VPR6mDXQ"><img src="https://img.shields.io/badge/spotify-%231ED760.svg?&style=for-the-badge&logo=spotify&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
