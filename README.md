@@ -36,7 +36,7 @@
 <hr>
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anand-1809&layout=compact)](https://github.com/anuraghazra/github-readme-stats)-->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anand-1809&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=anand-1809&theme=blue-green)
 
 
 <hr>
