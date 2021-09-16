@@ -35,12 +35,16 @@
 </p>
 <hr>
 
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anand-1809&layout=compact)](https://github.com/anuraghazra/github-readme-stats)-->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anand-1809&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <hr>
+
 Here are some [🦜 parrots](https://cultofthepartyparrot.com):
+
 <br><br>
+
 
 <div>
     <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" height="30"/>
