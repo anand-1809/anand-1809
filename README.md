@@ -1,7 +1,7 @@
 <h1 align='center'> Hi there 👋, I'm Anand Kumar  👩‍💻 </h1>
 
 <p align='center'>
-  I live in Bokaro,Jharkhand <b>India</b>  <img align='right' src='https://github.com/anand-1809/anand-1809/blob/main/octocat-anime.gif' width='140"'>
+  I live in Bengaluru,Karnataka <b>India</b>  <img align='right' src='https://github.com/anand-1809/anand-1809/blob/main/octocat-anime.gif' width='140"'>
 </p>
 
 <p align='center'>
@@ -19,7 +19,7 @@
 
 <hr>
 
-<h4>🔭  I’m currently in fourth year  ...</h4>
+<h4>🔭  I’m currently working as a software developer in Accenture  ...</h4>
 
 <h5>Web Developer</h5>
 <p >
